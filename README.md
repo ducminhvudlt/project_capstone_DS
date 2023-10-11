@@ -30,11 +30,17 @@ From this, if we wanted to maximize the chance an offer is completed, it is best
 <a name="lib"></a>
 
 ## Libraries
-To be able to run this notebook, you need to install these libraries:
+To be able to run this notebook, you need to have python >= 3.9 and install these libraries:
 - [Pandas](https://github.com/pandas-dev/pandas)
 - [Numpy](https://github.com/numpy/numpy)
 - [Matplotlib](https://github.com/matplotlib/matplotlib)
 - [Sklearn](https://github.com/scikit-learn/scikit-learn)
+- [Sklearn_evaluation](https://github.com/ploomber/sklearn-evaluation)
+
+```bash
+# install all package
+pip install -r requirements.txt
+```
 
 <a name="files"></a>
 
